@@ -1,0 +1,9 @@
+seaborn
+matplotlib
+numpy
+pandas
+scikit-learn
+shapely
+tsfresh
+folium
+kaggle
